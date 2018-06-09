@@ -1,3 +1,2 @@
 # hello
-hello world
-im using this
+This is a sample test repository
